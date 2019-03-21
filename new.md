@@ -1,3 +1,4 @@
+qwertyuiop
 #### 一、安装node、npm、vue-cli脚手架
 #### 二、新建命令：vue init webpack my-project
 1. ? Project name (my-project)        ------------项目名称

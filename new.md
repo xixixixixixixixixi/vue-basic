@@ -216,9 +216,13 @@ this.$http.get('https://api.coindesk.com/v1/bpi/currentprice.json')
 ```
 #### 十一、md5加密
 1. 安装MD5
-`npm install js-md5 -D`
+```
+npm install js-md5 -D
+```
 2. 全局引用 
-`import md5 from "js-md5";`
+```
+import md5 from "js-md5"
+```
 
 
 

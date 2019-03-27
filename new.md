@@ -221,7 +221,7 @@ npm install js-md5 -D
 ```
 2. 全局引用 
 ```
-import md5 from "js-md5"
+npm install --save js-md5"
 ```
 
 

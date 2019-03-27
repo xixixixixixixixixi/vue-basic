@@ -215,9 +215,9 @@ this.$http.get('https://api.coindesk.com/v1/bpi/currentprice.json')
   .catch((response) => {console.log(response)})
 ```
 #### 十一、md5加密
-1.安装MD5
+1. 安装MD5
 `npm install js-md5 -D`
-2.全局引用 
+2. 全局引用 
 `import md5 from "js-md5";`
 
 
